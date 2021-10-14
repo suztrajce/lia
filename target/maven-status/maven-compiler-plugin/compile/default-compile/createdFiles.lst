@@ -1,4 +1,5 @@
-se/havochvatten/unionvms/Worker.class
-se/havochvatten/unionvms/Server.class
-se/havochvatten/unionvms/Starter.class
-se/havochvatten/unionvms/AISEncoder.class
+unionvms/Server.class
+unionvms/AISEncoder.class
+unionvms/rest/Rest.class
+unionvms/Starter.class
+unionvms/Worker.class

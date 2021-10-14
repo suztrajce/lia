@@ -1,0 +1,4 @@
+127.0.0.1 - - [14/Oct/2021:10:16:35 +0200] "GET /ais-simulator/restapi/rest/ HTTP/1.1" 200 12
+127.0.0.1 - - [14/Oct/2021:10:16:36 +0200] "GET /favicon.ico HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [14/Oct/2021:10:16:59 +0200] "GET /ais-simulator/restapi/rest/ HTTP/1.1" 200 12
+0:0:0:0:0:0:0:1 - - [14/Oct/2021:10:16:59 +0200] "GET /favicon.ico HTTP/1.1" 404 -
